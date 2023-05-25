@@ -1,5 +1,6 @@
 # FiveM-Cops
 this script is a heavily modified version of this creator: https://github.com/FiveM-Scripts/Cops_FiveM
+- I DONT TAKE CREDIT FOR THIS SCRIPT. This is my modified version that people asked for and wanted ace permission based
 
 # Features
 - Made to work without ESX or any database server.
